@@ -6,13 +6,13 @@ let Feed = () => {
     return (
         <header>
             <div className="container h-flex">
-                <Link to='/' className="logo">
+                <Link to='/feed/' className="logo">
                     <img src={logo}></img>
                 </Link>
                 <nav className="links">
                     <ul>
                         <li>
-                            <Link to='/' className="menu__links">Лента</Link>
+                            <Link to='/feed/' className="menu__links">Лента</Link>
                         </li>
                         <li>
                             <Link to='/profile/' className="menu__links">Профиль</Link>

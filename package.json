@@ -2,7 +2,7 @@
   "name": "instagram_react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://slavon1265.github.io/Insta-Analog/",
+  "homepage": "https://slavon1265.github.io/Insta-Analog/feed/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
