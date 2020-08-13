@@ -1,6 +1,6 @@
 export default class instaService {
     constructor(){
-        this._apiBase = 'http://localhost:3000';
+        this._apiBase = 'http://my-json-server.typicode.com/slavon1265/Insta-Analog';
     }
 
     getResource = async (url) =>{
