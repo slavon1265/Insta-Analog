@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Insta-Analog/precache-manifest.ace09b548c5e5b2db5d8ea3a571c0d96.js"
+  "/Insta-Analog/precache-manifest.b41dbbfe4bd1f76fab4a4ec7008dfd0d.js"
 );
 
 self.addEventListener('message', (event) => {
