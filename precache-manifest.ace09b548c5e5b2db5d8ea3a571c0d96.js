@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "12661087bb2ee6e1a63fe1486ff9c83d",
+    "revision": "9604d117814f00d8544e17527addfa01",
     "url": "/Insta-Analog/index.html"
   },
   {
