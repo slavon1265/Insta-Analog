@@ -22,7 +22,6 @@ class Posts extends Component{
     }
 
     onPostsLoaded = posts => {
-        console.log(posts)
         this.setState({
             posts,
             error: false
