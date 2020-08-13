@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Insta-Analog/static/css/main.b7ea1ee1.chunk.css",
-    "main.js": "/Insta-Analog/static/js/main.27f97dd6.chunk.js",
-    "main.js.map": "/Insta-Analog/static/js/main.27f97dd6.chunk.js.map",
-    "runtime-main.js": "/Insta-Analog/static/js/runtime-main.41d1dbb3.js",
-    "runtime-main.js.map": "/Insta-Analog/static/js/runtime-main.41d1dbb3.js.map",
-    "static/js/2.430dca89.chunk.js": "/Insta-Analog/static/js/2.430dca89.chunk.js",
-    "static/js/2.430dca89.chunk.js.map": "/Insta-Analog/static/js/2.430dca89.chunk.js.map",
-    "index.html": "/Insta-Analog/index.html",
-    "precache-manifest.b41dbbfe4bd1f76fab4a4ec7008dfd0d.js": "/Insta-Analog/precache-manifest.b41dbbfe4bd1f76fab4a4ec7008dfd0d.js",
-    "service-worker.js": "/Insta-Analog/service-worker.js",
-    "static/css/main.b7ea1ee1.chunk.css.map": "/Insta-Analog/static/css/main.b7ea1ee1.chunk.css.map",
-    "static/js/2.430dca89.chunk.js.LICENSE.txt": "/Insta-Analog/static/js/2.430dca89.chunk.js.LICENSE.txt",
-    "static/media/error.png": "/Insta-Analog/static/media/error.3b8ad90a.png",
-    "static/media/logo.svg": "/Insta-Analog/static/media/logo.9e8a2b39.svg"
+    "main.css": "/Insta-Analog/feed/static/css/main.b7ea1ee1.chunk.css",
+    "main.js": "/Insta-Analog/feed/static/js/main.7bef687f.chunk.js",
+    "main.js.map": "/Insta-Analog/feed/static/js/main.7bef687f.chunk.js.map",
+    "runtime-main.js": "/Insta-Analog/feed/static/js/runtime-main.6da67438.js",
+    "runtime-main.js.map": "/Insta-Analog/feed/static/js/runtime-main.6da67438.js.map",
+    "static/js/2.f1f9196e.chunk.js": "/Insta-Analog/feed/static/js/2.f1f9196e.chunk.js",
+    "static/js/2.f1f9196e.chunk.js.map": "/Insta-Analog/feed/static/js/2.f1f9196e.chunk.js.map",
+    "index.html": "/Insta-Analog/feed/index.html",
+    "precache-manifest.baeb15a1dd858dc22b0964f3655aac51.js": "/Insta-Analog/feed/precache-manifest.baeb15a1dd858dc22b0964f3655aac51.js",
+    "service-worker.js": "/Insta-Analog/feed/service-worker.js",
+    "static/css/main.b7ea1ee1.chunk.css.map": "/Insta-Analog/feed/static/css/main.b7ea1ee1.chunk.css.map",
+    "static/js/2.f1f9196e.chunk.js.LICENSE.txt": "/Insta-Analog/feed/static/js/2.f1f9196e.chunk.js.LICENSE.txt",
+    "static/media/error.png": "/Insta-Analog/feed/static/media/error.3b8ad90a.png",
+    "static/media/logo.svg": "/Insta-Analog/feed/static/media/logo.9e8a2b39.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.41d1dbb3.js",
-    "static/js/2.430dca89.chunk.js",
+    "static/js/runtime-main.6da67438.js",
+    "static/js/2.f1f9196e.chunk.js",
     "static/css/main.b7ea1ee1.chunk.css",
-    "static/js/main.27f97dd6.chunk.js"
+    "static/js/main.7bef687f.chunk.js"
   ]
 }
