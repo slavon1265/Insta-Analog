@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1900d5608646f68c6f22567d002e38be",
+    "revision": "12661087bb2ee6e1a63fe1486ff9c83d",
     "url": "/Insta-Analog/index.html"
   },
   {
-    "revision": "254759fdec2a4bda2983",
+    "revision": "bc86f14ee3830232a68c",
     "url": "/Insta-Analog/static/css/main.b7ea1ee1.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Insta-Analog/static/js/2.bcfe681a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "254759fdec2a4bda2983",
-    "url": "/Insta-Analog/static/js/main.3ce89321.chunk.js"
+    "revision": "bc86f14ee3830232a68c",
+    "url": "/Insta-Analog/static/js/main.98756128.chunk.js"
   },
   {
     "revision": "fc5119c0fc8b962957ce",
